@@ -3,7 +3,7 @@ layout: post
 permalink: /influencer/
 title: '인플루언서란?'
 date: 2021-05-27 14:00:00 +09:00
-feature: '/img/posts/01/ssomenail.jpg'
+feature: '/img/posts/01/thumbnailimg.jpg'
 categories:
   - influencer-history
 tags:
