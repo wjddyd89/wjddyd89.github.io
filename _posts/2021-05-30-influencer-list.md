@@ -23,13 +23,13 @@ description: '인플루언서의 종류에 대해서 알아 봅시다!'
 
 ![인플루언서 구분](/img/posts/02/influencer-stats.jpg)
 
-나노 인플루언서 (Nano influencer)
+1. 나노 인플루언서 (Nano influencer)
 
-마이크로 인플루언서 (Micro influencer)
+2. 마이크로 인플루언서 (Micro influencer)
 
-매크로 인플루언서 (Macro influencer)
+3. 매크로 인플루언서 (Macro influencer)
 
-메가 인플루언서 (Mega influencer)
+4. 메가 인플루언서 (Mega influencer)
 
 
 
@@ -37,7 +37,7 @@ description: '인플루언서의 종류에 대해서 알아 봅시다!'
 
 ![나노 인플루언서](/img/posts/02/nano.jpg)
 
-> 1. 나노 인플루언서 (Nano influencer)
+### 1. 나노 인플루언서 (Nano influencer)
 
 #### 나노 인플루언서는 1 ~ 만명의 팔로워를 보유하고 있는 사람을 말해요.  
 
@@ -53,7 +53,7 @@ description: '인플루언서의 종류에 대해서 알아 봅시다!'
 
 ![마이크로 인플루언서](/img/posts/02/micro.jpg)
 
-> 2. 마이크로 인플루언서 (Micro influencer)
+### 2. 마이크로 인플루언서 (Micro influencer)
 
 #### 마이크로 인플루언서는 팔로워 수가 만명 ~ 십만명까지를 얘기하는데요!  
 
@@ -73,7 +73,7 @@ description: '인플루언서의 종류에 대해서 알아 봅시다!'
 
 ![매크로 인플루언서](/img/posts/02/macro.jpg)
 
-> 3. 매크로 인플루언서 (Macro influecer)
+### 3. 매크로 인플루언서 (Macro influecer)
 
 #### 매크로 인플루언서는 십만명 ~ 백만명 사이의 팔로워 수를 보유하고 있는 사람을 말해요!  
 
@@ -93,7 +93,7 @@ description: '인플루언서의 종류에 대해서 알아 봅시다!'
 
 ![메가 인플루언서](/img/posts/02/mega.jpg)
 
-> 4. 메가 인플루언서 (Mega influencer)
+### 4. 메가 인플루언서 (Mega influencer)
 
 #### 메가 인플루언서는 백만명 이상의 팔로워 수를 보유하고 있는 사람들을 말합니다.  
 
