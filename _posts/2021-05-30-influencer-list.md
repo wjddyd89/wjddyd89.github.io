@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /influencer/
+permalink: /influencer-list/
 title: '인플루언서의 종류'
 date: 2021-05-30 12:00:00 +09:00
 feature: '/img/posts/02/mega.jpg'
