@@ -11,7 +11,7 @@ tags:
   - 마케팅의미
   - 디지털마케팅
   - 마케팅이란
-description: '마케팅의 뜻'
+description: '마케팅이 무슨 뜻인지 알아볼까요?'
 ---
 
 ![마케팅이란](/img/posts/03/marketing-mean.jpg)
