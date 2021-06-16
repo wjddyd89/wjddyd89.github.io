@@ -5,7 +5,7 @@ title: '마케팅이란?'
 date: 2021-05-31 12:00:00 +09:00
 feature: '/img/posts/03/marketing-mean.jpg'
 categories:
-  - marketing-mean
+  - influencer-marketing
 tags:
   - 마케팅의뜻
   - 마케팅의미

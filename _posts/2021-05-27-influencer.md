@@ -5,7 +5,7 @@ title: '인플루언서란?'
 date: 2021-05-27 14:00:00 +09:00
 feature: '/img/posts/01/thumbnailimg.jpg'
 categories:
-  - influencer-history
+  - influencer-marketing
 tags:
   - 인플루언서
   - 인플루언서마케팅

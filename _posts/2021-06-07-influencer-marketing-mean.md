@@ -5,7 +5,7 @@ title: '인플루언서 마케팅이란?'
 date: 2021-06-07 12:00:00 +09:00
 feature: '/img/posts/04/influencer-marketing-mean.jpg'
 categories:
-  - influencer-marketing-mean
+  - influencer-marketing
 tags:
   - 인플루언서마케팅의뜻
   - 인플루언서마케팅의미
